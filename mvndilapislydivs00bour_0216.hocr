@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mvndilapislydivs00bour/mvndilapislydivs00bour_0216.png"; bbox 0 0 2044 2943; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1838 0 2044 70">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1838 0 2044 70">
+     <span class='ocr_line' id='line_1_1' title="bbox 1838 0 2044 70; baseline 0 2873"><span class='ocrx_word' id='word_1_1' title='bbox 1838 0 2044 70; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 389 68 1545 125">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 389 68 1545 125">
+     <span class='ocr_line' id='line_1_2' title="bbox 389 68 1545 125; baseline -0.008 0"><span class='ocrx_word' id='word_1_2' title='bbox 389 94 465 125; x_wconf 82' lang='lat'>210</span> <span class='ocrx_word' id='word_1_3' title='bbox 821 71 1087 121; x_wconf 76' lang='lat' dir='ltr'><strong>Aecus·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1127 68 1284 117; x_wconf 74' lang='lat' dir='ltr'>CAP.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1335 69 1545 117; x_wconf 82' lang='lat' dir='ltr'><strong>XLVI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 344 223 1944 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 344 223 1944 1902">
+     <span class='ocr_line' id='line_1_3' title="bbox 344 223 1944 1902; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 344 223 1944 1902; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 409 2037 1829 2167">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 409 2037 1829 2167">
+     <span class='ocr_line' id='line_1_4' title="bbox 409 2037 1829 2167; baseline 0.004 -9"><span class='ocrx_word' id='word_1_7' title='bbox 409 2037 1829 2167; x_wconf 44' lang='lat' dir='ltr'>VERlTAsae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 800 2223 1428 2344">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 800 2223 1428 2344">
+     <span class='ocr_line' id='line_1_5' title="bbox 800 2223 1428 2344; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 800 2248 1009 2344; x_wconf 77' lang='lat' dir='ltr'><em>Venti</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1022 2223 1428 2344; x_wconf 78' lang='lat' dir='ltr'><em>ludibrium.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1625 2629 1917 2707">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1625 2629 1917 2707">
+     <span class='ocr_line' id='line_1_6' title="bbox 1625 2629 1917 2707; baseline -0.01 0"><span class='ocrx_word' id='word_1_10' title='bbox 1625 2629 1917 2707; x_wconf 73' lang='lat' dir='ltr'>‚VERI-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
